@@ -7,7 +7,7 @@
   },
 
   "plsql_new": {
-    "q1": "What is a Cursor?",
+    "q1": "What is a Cursor",
     "q2": "What is a Trigger?",
     "q3": "Explain Exception Handling in PL/SQL"
   },
