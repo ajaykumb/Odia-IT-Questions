@@ -1,1 +1,20 @@
 
+{
+  "current": {
+    "q1": "What is a Primary Key in SQL?",
+    "q2": "Write a PL/SQL block to print 'Hello World'.",
+    "q3": "What is the difference between VARCHAR and CHAR?"
+  },
+
+  "plsql_new": {
+    "q1": "What is a Cursor?",
+    "q2": "What is a Trigger?",
+    "q3": "Explain Exception Handling in PL/SQL"
+  },
+
+  "linux": {
+    "q1": "What is Kernel?",
+    "q2": "What is chmod?",
+    "q3": "Difference between grep and awk"
+  }
+}
